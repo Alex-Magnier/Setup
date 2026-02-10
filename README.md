@@ -17,8 +17,7 @@ Site portfolio showcasing mon setup informatique avec composants et périphériq
 ├── compo.html          # Liste des composants PC
 ├── periph.html         # Liste des périphériques
 ├── README.md           # Cette documentation
-└── css/
-    └── styles.css      # Feuille de styles CSS
+├── styles.css          # Feuille de styles CSS
 └── assets/
     └── setup.jpg       # Image du setup
 ```
@@ -207,3 +206,4 @@ Remplacez `VOTRE_ID_SHEET` par l'ID de votre Google Sheet (visible dans l'URL ap
 - **Texte principal** : #ff4444 (rouge vif)
 - **Texte secondaire** : #ccc (gris clair)
 - **Bordure grise** : #333 (gris foncé)
+
